@@ -1,0 +1,13 @@
+
+
+1. Lage en database
+2. Fyll inn testdata
+3. Spør Johannes om jeg har gjort riktig
+4. Vis Aktiviteter på forsiden
+5. Lag meld på knapp, ny side med skjema om deltakers navn, mobilnummer etc. Lagre Deltaker, og Paamleding i databasen.
+6. Lag logg-inn
+7. Vis deltakere til administrator-brukere
+8. Johannes ser over koden og forteller hva du må endre for å forbedre koden. Riktig mobilnummer, money php, composer.
+9. Johannes sender Jens kopi av Nicolas sin forside og forklareren - jens gjør det på de andre sidene.
+10. Administrator kan lage nytt kurs, endre kurs, og slette kurs.
+11. papa kjøper gtx 1060
